@@ -1,0 +1,1 @@
+import{n as e}from"./C0N6LZXg.js";var t=t=>{let n=JSON.stringify(t).replace(/</g,`\\u003c`);e({script:[{type:`application/ld+json`,children:n}]})};export{t};
